@@ -35,4 +35,9 @@ Testing
 Tools & Platforms
 ![Systems, CMS and Databases](https://skillicons.dev/icons?i=git,github,postgres,prisma,redis,selenium)
 
+📊 GitHub Stats
+
+https://github-readme-stats.vercel.app/api?username=aleaguilar01&show_icons=true&theme=radical
+
+https://github.com/aleaguilar01/github-readme-stats
 
