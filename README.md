@@ -5,20 +5,26 @@ Hey there! 👋 I'm a seasoned manager turned code enthusiast, bringing a unique
 🔭 Current Endeavors
 
 📚🎵 Building an awesome app to pair your readings with the perfect music
+
 🧠 Diving deep into algorithms and data structures to level up my coding skills
 
 🌱 Growing My Skills
 
 🧮 Advancing my knowledge of algorithms and data structures
+
 📊 Enhancing my data visualization skills for better product insights
 
 💡 Areas of Expertise
 Feel free to ask me about:
 
 🚀 Product management
+
 👥 Team leadership and project management
+
 🔗 Bridging communication between technical and non-technical stakeholders
+
 💻 Full-stack development (with a focus on recent technologies you've worked with)
+
 🌐 Building user-centric web applications
 
 🛠️ Tech Stack
