@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,CSS,py,ruby,ts)]
+![My Skills](https://skillicons.dev/icons?i=js,html,css,py,ruby,ts)
 
 [![Frameworks](https://skillicons.dev/icons?i=bootstrap,express,jquery,nestjs,nodejs,rails,react,sass,vite)]
 
