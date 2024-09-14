@@ -24,15 +24,19 @@ Feel free to ask me about:
 🛠️ Tech Stack
 
 Languages
+
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,py,ruby,ts)
 
 Frameworks & Libraries
+
 ![Frameworks](https://skillicons.dev/icons?i=bootstrap,express,jquery,nestjs,nodejs,rails,react,sass,vite)
 
 Testing
+
 ![Testing](https://skillicons.dev/icons?i=cypress,jest)
 
 Tools & Platforms
+
 ![Systems, CMS and Databases](https://skillicons.dev/icons?i=git,github,postgres,prisma,redis,selenium)
 
 📊 GitHub Stats
