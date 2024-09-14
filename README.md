@@ -18,6 +18,7 @@ Here are some ideas to get you started:
   <h3 align="center" class="heading-element" dir="auto">
     👨‍💻 Programming languages
   </h3>
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
   <a id="user-content----programming-languages" class="anchor" aria-label="Permalink: 
   👨‍💻 Programming languages
 " href="#---programming-languages">
