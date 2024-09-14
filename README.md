@@ -39,7 +39,6 @@ Tools & Platforms
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=aleaguilar01&show_icons=true&theme=radical)
 
-![My Stats](https://github.com/aleaguilar01/github-readme-stats)
 
 
 
