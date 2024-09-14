@@ -37,9 +37,9 @@ Tools & Platforms
 
 📊 GitHub Stats
 
-![My Stats]([https://skillicons.dev/icons?i=js,html,css,py,ruby,ts](https://github-readme-stats.vercel.app/api?username=aleaguilar01&show_icons=true&theme=radical))
+![My Stats](https://skillicons.dev/icons?i=js,html,css,py,ruby,ts](https://github-readme-stats.vercel.app/api?username=aleaguilar01&show_icons=true&theme=radical)
 
-![My Stats]([[https://skillicons.dev/icons?i=js,html,css,py,ruby,ts](https://github-readme-stats.vercel.app/api?username=aleaguilar01&show_icons=true&theme=radical](https://github.com/aleaguilar01/github-readme-stats)))
+![My Stats](https://github.com/aleaguilar01/github-readme-stats))
 
 
 
