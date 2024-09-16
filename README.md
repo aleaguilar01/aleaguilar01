@@ -10,7 +10,8 @@ I'm the tech world's version of a centaur - half business strategist, half code 
 
 🌟 Current Quests
 
-    📚🎵 Crafting an app that matches your reading list with the perfect soundtrack. (Because who doesn't want epic music while reading about epic quests?)
+    📚🎵 Crafting an app that matches your reading list with the perfect soundtrack. 
+    (Because who doesn't want epic music while reading about epic quests?)
     🧠 Spelunking in the caves of algorithms and data structures. Indiana Jones, eat your heart out!
 
 🌱 Skills I'm Cultivating
