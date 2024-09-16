@@ -5,10 +5,11 @@ Hey there, fellow digital trailblazers! 👋 I'm a seasoned manager who swapped 
 Imagine a manager who traded PowerPoint for Python. That's me! With 8 years of herding cats... er, I mean, management experience, and 1.5 years of coding adventures, 
 I'm your go-to techie with a business twist.
 
+
 🎭 My Dual Identity
 
-👔 By day: 8 years of management wizardry
-🖥️ By night: 1.5 years of coding sorcery
+    👔 By day: 8 years of management wizardry
+    🖥️ By night: 1.5 years of coding sorcery
 
 I'm the tech world's version of a centaur - half business strategist, half code wrangler. My superpower? Translating business jargon into elegant code faster than you can say "synergy"!
 
