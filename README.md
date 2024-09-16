@@ -30,7 +30,7 @@ I'm the tech world's version of a centaur - half business strategist, half code 
     🚀 Product management (I speak fluent Scrum)
     👥 Team Leadership (I can organize a group project without anyone crying)
     🔗 Being the Rosetta Stone between tech-speak and business-babble
-    💻 Full-stack development (I juggle front-end and back-end like a circus pro)
+    💻 Full-Stack Development (Jack of all trades, master of... well, I'm working on it)
     🌐 User-Centric Design (Because happy users = happy life)
 
 
