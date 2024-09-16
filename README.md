@@ -13,7 +13,7 @@ I'm the tech world's version of a centaur - half business strategist, half code 
 
     📚🎵 Crafting an app that matches your reading list with the perfect soundtrack. 
     (Because who doesn't want epic music while reading about epic quests?)
-    🧠 Spelunking in the caves of algorithms and data structures. Indiana Jones, eat your heart out!
+    🧠 Diving deep into the world of algorithms. It's like solving puzzles, but with more semicolons.
 
 🌱 Skills I'm Cultivating
 
