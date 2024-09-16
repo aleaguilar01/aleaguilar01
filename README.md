@@ -36,8 +36,8 @@ I'm the tech world's version of a centaur - half business strategist, half code 
 
 🌍 Multilingual Maven
         
-        Fluent in English, Spanish, and Sarcasm. I turn communication barriers into bridges quicker than you can say "Hola, World!"
-        🏞️ Off-Screen Adventures. 
+        Fluent in English, Spanish, and Sarcasm. 
+        I turn communication barriers into bridges quicker than you can say "Hola, World!"
         I'll localize your app and your jokes!
 
 When I'm not pushing pixels or pulling all-nighters:
