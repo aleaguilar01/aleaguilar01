@@ -1,5 +1,6 @@
 
 🚀 Welcome to Alex's Coding Campsite! 🏕️
+
 Hey there, fellow digital trailblazers! 👋 I'm a seasoned manager who swapped boardrooms for keyboards, bringing a unique blend of leadership savvy and coding enthusiasm to the tech wilderness.
 🎭 My Dual Identity
 
