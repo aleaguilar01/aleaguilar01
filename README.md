@@ -31,7 +31,7 @@ I'm the tech world's version of a centaur - half business strategist, half code 
     👥 Team Leadership (I can organize a group project without anyone crying)
     🔗 Being the Rosetta Stone between tech-speak and business-babble
     💻 Full-stack development (I juggle front-end and back-end like a circus pro)
-    🌐 Crafting web apps so user-friendly, even your grandma could use them
+    🌐 User-Centric Design (Because happy users = happy life)
 
 🌍 Multilingual Maven
         Fluent in English, Spanish, and Sarcasm. I turn communication barriers into bridges quicker than you can say "Hola, World!"
